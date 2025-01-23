@@ -3,7 +3,7 @@ def remove_dupe(data : list) -> list:
     unique_set = set(data)
     return list(unique_set)
 
-my_list = [1, 2, "avery", 5, 5, 6, "avery"]
+my_list = [1, 2,3,4, 5, 6, ]
 print(my_list)
 
 #ASSIGNMENT 2
